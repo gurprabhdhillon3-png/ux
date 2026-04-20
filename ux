@@ -1,0 +1,29 @@
+<html>
+<head>
+    <style>
+        div{
+            background-color: khaki;
+            padding: :10px;
+        }
+        div.first{
+            opacity: 0.1;
+        }
+        div.second{
+            opacity: 0.5;
+        }
+        div.third{
+            opacity: 1;
+        }
+        </style>
+</head>
+<body>
+    <h1>the opacity property</h1>
+        <p>this is how this property looks:</p>
+        <div class="first"><p>opacity 0.1</p>
+        </div>
+        <div class="second"><p>opacity 0.5</p>
+        </div>
+        <div class="third"><p>opacity 1</p>
+        </div>
+</body>
+</html>
