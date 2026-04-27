@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>titlt</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="container">
+    <h1>hi </h1>
+    <p>bootstrap</p>
+    <div class="row">
+        <div class="col-md-8 col-xs-4" style="background-color: red; border: 1px solid sandybrown;">xs</div>
+        <div class="col-md-12 col-md-5" style="background-color: lawngreen;">.col-xs-3</div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 col-lg-6" style="background-color:lightcoral;">.col-xs-6</div>
+        <div class="col-xs-6 col-md-2" style="background-color: lightgrey;">.col-xs-6</div>
+    </div>
+    <div class="row" style="background-color: lightcyan;">
+        <div class="col-xs-6">.col-xs-6</div>
+        <div class="col-xs-6">.col-xs-6</div>
+    </div>
+</div>
+</body>
+</html>
